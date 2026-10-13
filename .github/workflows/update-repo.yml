@@ -1,0 +1,46 @@
+name: Rebuild package index
+
+# Whenever a .deb (or the Release file) changes on main, regenerate
+# Packages / Packages.bz2 / Packages.gz and commit them back.
+# GitHub Pages then redeploys automatically from the new commit.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "debs/**"
+      - "Release"
+      - "update.sh"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-repo
+  cancel-in-progress: true
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    # Don't loop on our own "Update package index" commit.
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dpkg-dev
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq dpkg-dev bzip2 gzip
+
+      - name: Regenerate index
+        run: bash ./update.sh
+
+      - name: Commit index
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Packages Packages.bz2 Packages.gz
+          if git diff --cached --quiet; then
+            echo "Index unchanged."
+          else
+            git commit -m "Update package index"
+            git push
+          fi
