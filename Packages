@@ -349,6 +349,22 @@ Description: 面容识别成功自动解锁无需滑动，原生函数更为节�
 Author: Netskao
 Name: AutoFaceUnlock
 
+Package: netskao.autofaceunlock-roothide
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 452
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/netskao.autofaceunlock-roothide_1.1-7_iphoneos-arm64e.deb
+Size: 65272
+MD5sum: fb796910a3ed3f1b417854e61d46f04f
+SHA1: e65fb29d983e48ec6b9ff0095058ac7cce887bc7
+SHA256: 43f6e491124c35a00f9e49ada7e4ba71c562f9b012e4c1edc87dd8ba0962e4f6
+Section: Netskao-Tweaks
+Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
+Author: Netskao
+Name: AutoFaceUnlock
+
 Package: netskao.cccellularrate
 Version: 1.1-1
 Architecture: iphoneos-arm64
