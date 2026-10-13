@@ -1,0 +1,428 @@
+Package: com.homegesture
+Version: 1
+Architecture: iphoneos-arm64
+Maintainer: HomeGesture
+Depends: mobilesubstrate
+Filename: debs/com.homegesture_1_iphoneos-arm64.deb
+Size: 3072
+MD5sum: 8faa5081d3fed7298962a62ea0c46b3d
+SHA1: c9fde9d45007cb4547a834c37dee5afc35e474de
+SHA256: ffe2ea06691ac8681cd8fd81f193638ef2dae2c6142840b49c2bb9bc7a89a513
+Section: Tweaks
+Description: HomeGesture
+Author: HomeGesture
+Name: HomeGesture
+
+Package: com.homegesture-roothide
+Version: 1
+Architecture: iphoneos-arm64e
+Maintainer: HomeGesture
+Depends: mobilesubstrate
+Filename: debs/com.homegesture-roothide_1_iphoneos-arm64e.deb
+Size: 3040
+MD5sum: ee19af1ab6927e1578a2a5fd0713e5b6
+SHA1: d20c783cfab16e05864d61b9393fec4fdc8add42
+SHA256: cc6714c4c7758e89c076af57631320d8d352d3f2868e866bb713fc943738f961
+Section: Tweaks
+Description: HomeGesture
+Author: HomeGesture
+Name: HomeGesture
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 977970
+MD5sum: d70699b93e4c1d86aa21a963427ca3cd
+SHA1: 575137e624ea6d038c4ab4dcc7da9a01ee417fc6
+SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
+Package: com.lenglengyu.fakepicture
+Version: 1.8.8
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 11314
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), com.yourepo.lly.crack-rootless (>= 3.2.8)
+Filename: debs/com.lenglengyu.fakepicture-rootless188.deb
+Size: 3088300
+MD5sum: 5033be50f3318b0b1f123b718f8ff06c
+SHA1: f4a117b0fda2fd2017b795cbd43bfcb4c19afe81
+SHA256: 44193c299bb2d6edd2da67e878e4a6ea510456f81b743daf65bef7fd5740ec7b
+Section: Fugu15
+Description: Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera
+    Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera. So the app will get a replaced image which you set. It's a good way to protect your privacy. 虚拟拍照，能够替换应用请求摄像头拍照的图片，让应用得到任意你设置的照片。它是一个魔法相机，实现模拟照相机功能，从而保护你的个人相片隐私。
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Dev: joebruce
+Name: FakePicture(拍照替换)破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/rlpzthsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.fakepicture
+Version: 333
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 11314
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), com.yourepo.lly.crack-rootless (>= 3.2.8)
+Filename: debs/com.lenglengyu.fakepicture_333_iphoneos-arm64.deb
+Size: 2434340
+MD5sum: 244ac68bf056ac0f82caa42d3e7c7fcd
+SHA1: 945fd137e957a2058c32a34cf0f4c1a64f7257e2
+SHA256: 8502daf3b71b3d6b1c48634a33c020edd6290bf46fe2e8b004f447a8d02320d1
+Section: Fugu15
+Description: Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera
+    Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera. So the app will get a replaced image which you set. It's a good way to protect your privacy. 虚拟拍照，能够替换应用请求摄像头拍照的图片，让应用得到任意你设置的照片。它是一个魔法相机，实现模拟照相机功能，从而保护你的个人相片隐私。
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Dev: joebruce
+Name: FakePicture(拍照替换)破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/rlpzthsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.ios.fakegps-rootless
+Version: 3.9.15
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10820
+Depends: firmware (>= 6.0), mobilesubstrate, com.yourepo.lly.crack-rootless (>= 3.3.4)
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: debs/com.lenglengyu.ios.fakegps-rootless.deb
+Size: 5647476
+MD5sum: db72af1770288ea7283a8b65d32d050b
+SHA1: 3dd8dba78fb6d3a5b38839564b0e1ad29126a1aa
+SHA256: 8e5d108c1efd70c2ad5b2ea1f6bf7667412b048e221e80214878fceebae03f37
+Section: Fugu15
+Description: 定位修改大师，Fake GPS Location, 修改微信、朋友圈、微博、陌陌、Facebook、QQ空间、支付宝、Instagram等应用定位，玩游戏、企业钉钉打卡必备工具。360度全球虚拟定位到想要的任何地方。
+Tag: purpose::extension
+Author: suifeng <260298032@qq.com>
+Dev: suifeng
+Icon: file:///Applications/FakeGps.app/AppIcon29x29@2x.png
+Name: 定位修改大师破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/rldwxgdssileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.ios.fakegps-rootless
+Version: 333
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10820
+Depends: firmware (>= 6.0), mobilesubstrate, com.yourepo.lly.crack-rootless (>= 3.3.4)
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: debs/com.lenglengyu.ios.fakegps-rootless_333_iphoneos-arm64.deb
+Size: 3979328
+MD5sum: 1baec68a567b875e13aee1d1a066117a
+SHA1: a9c9578954eb5104370e9e32f27c7d47f603fb90
+SHA256: 9b95378afbdb709b05a06cb163cce685d1164c6480a90152882192d9d851d231
+Section: Fugu15
+Description: 定位修改大师，Fake GPS Location, 修改微信、朋友圈、微博、陌陌、Facebook、QQ空间、支付宝、Instagram等应用定位，玩游戏、企业钉钉打卡必备工具。360度全球虚拟定位到想要的任何地方。
+Tag: purpose::extension
+Author: suifeng <260298032@qq.com>
+Dev: suifeng
+Icon: file:///Applications/FakeGps.app/AppIcon29x29@2x.png
+Name: 定位修改大师破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/rldwxgdssileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.netskao.appdata
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.netskao.appdata_1.4.7_iphoneos-arm64.deb
+Size: 1497804
+MD5sum: 991d1031e54c5b51e85d3943ae9f1d99
+SHA1: 8ed7bb6d23a0771afdd0c1cfb09143ec8e975b09
+SHA256: 5dccd49ab2b9296e57599e0feb4710891f55c32f962a5c287ecb4f52a806c88d
+Section: Netskao-Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Name: AppData
+
+Package: com.netskao.swiftgramcrack
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1080
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: debs/com.netskao.swiftgramcrack_1.1-7_iphoneos-arm64.deb
+Size: 423432
+MD5sum: e1726e51959cd4a324a7fc843dcbb91c
+SHA1: 7fc27816c5ed1f0577225e7f897ad108a45ef676
+SHA256: 6fb526efde0dd60326aaf70c00dbc5808cc203a28eefa79f863976296dc0dbd6
+Section: Netskao-Tweaks
+Description: Swiftgram Pro. 附加解除下载保护/解除截图保护/去除官方广告, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Name: Swiftgram Crack
+Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.swiftgramcrack
+
+Package: com.xybp888.lockbutton-roothide
+Version: 0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: xybp888
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.xybp888.lockbutton-roothide_0.1-2_iphoneos-arm64e.deb
+Size: 32428
+MD5sum: 6638ec5ae5e1d0f2d80e5789fd81b721
+SHA1: 0b2e4e91f944632fdac10838bad42b2070a7e103
+SHA256: 134c972f63f284b649e816023abb5d1f65c346c75c99a05952f9eacdc2827a99
+Section: Tweaks
+Priority: optional
+Description: 一键锁屏
+Author: xybp888
+Depiction: https://apt.htv123.com/view/26
+Icon: add You IconFiles URL
+Name: 一键锁屏
+Sileodepiction: https://apt.htv123.com/sileo/26
+
+Package: me.jjolano.fmwk.hookkit
+Version: 1.0.15
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 172
+Depends: firmware (>= 8.0), me.jjolano.fmwk.modulous, me.jjolano.fmwk.rootbridge
+Filename: debs/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm64.deb
+Size: 13206
+MD5sum: 54052a5f6e3856075da7c42b689b1123
+SHA1: ea5b17453e78b439ab82c150a9923ec0bb77650c
+SHA256: 710cff21b4b3849d79d3b021a61c5bf2c19ccc4697f329fa6039220a3e1a503c
+Section: Development
+Description: An iOS developer framework for unified hooking methods.
+Tag: role::developer
+Author: jjolano
+Name: HookKit Framework
+
+Package: me.jjolano.fmwk.modulous
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 168
+Depends: firmware (>= 8.0)
+Filename: debs/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm64.deb
+Size: 6284
+MD5sum: e6a1f9d08bcf469eadb964b5678d9f0b
+SHA1: 50c025c5156993fb343770b2f37f60e5c1dc5194
+SHA256: f868e5ef05d102b27d2f9065e5f817b71ce8a846dd9ec8270ab497d6587fce45
+Section: Development
+Description: An iOS developer framework for modular software.
+Tag: role::developer
+Author: jjolano
+Name: Modulous Framework
+
+Package: me.jjolano.fmwk.rootbridge
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 168
+Depends: firmware (>= 8.0)
+Filename: debs/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm64.deb
+Size: 4098
+MD5sum: 1844c270a446ee65231bd27d8f2d2a3c
+SHA1: c9a497e4be9149348ceca9f36e433b950d236039
+SHA256: 52c44bf54e6ad32f3d27446cc83ca61c84aba51f34aa340eb11f49e376ebac48
+Section: Development
+Description: An iOS developer framework for rootless tweak development.
+Tag: role::developer
+Author: jjolano
+Name: RootBridge Framework
+
+Package: me.jjolano.hkmodule.fishhook
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 172
+Pre-Depends: me.jjolano.fmwk.hookkit
+Filename: debs/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm64.deb
+Size: 6710
+MD5sum: a095cd95ccd9cbcb761f2b04f377c07b
+SHA1: d8c159eeef85a5486cc1dadcb6646f335260adfc
+SHA256: 0a19f83a87081e7b992481ceaf81ab194f61cc7863bf43f3887aaeb77cd5de4e
+Section: HookKit (Modules)
+Description: This module provides fishhook library support for HookKit Framework.
+Author: jjolano
+Name: HookKit Module (fishhook)
+
+Package: me.jjolano.hkmodule.substrate
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 168
+Pre-Depends: me.jjolano.fmwk.hookkit
+Depends: mobilesubstrate
+Filename: debs/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm64.deb
+Size: 4182
+MD5sum: 35bcad10fd2feb5e3513f8632a31ade9
+SHA1: f36694f3efb7ddb6406ace526a89b511a486bb56
+SHA256: 705fa473d42c526da573c71c5389ce19a4047a36ab96af639a21938ee974b00f
+Section: HookKit (Modules)
+Description: This module provides the Cydia Substrate API for HookKit Framework.
+Author: jjolano
+Name: HookKit Module (Cydia Substrate)
+
+Package: me.jjolano.shadow
+Version: 3.7.6
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 1076
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: debs/me.jjolano.shadow_3.7.6_iphoneos-arm64.deb
+Size: 100938
+MD5sum: d5d9e73e6fb80918eb95772361f123be
+SHA1: 22c6e9db9a75db1b4faff4292b7343d699e2de86
+SHA256: 52fdf82c814ab67700a51a13de0ca2138b5942b8b2e949493e04614aeef523d4
+Section: System
+Description: A modern jailbreak detection bypass.
+Author: jjolano
+Name: Shadow
+
+Package: me.jjolano.shadowdeb
+Version: 3.7.6
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 1076
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: debs/shadowdeb_3.7.6.deb
+Size: 95736
+MD5sum: 7f31b163ee7add726d010e05576dade4
+SHA1: dea150bc16efbeb3c2b8ae5700f1d280993efa55
+SHA256: e3757b81b1e8ca7a0ff721a81f1c83ca6bbca7ded6724b9d64dc1c03f0823103
+Section: System
+Description: A modern jailbreak detection bypass.
+Author: jjolano
+Name: Deb
+
+Package: net.joebruce.fakepicture
+Version: 1.8.8
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 7031
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/fakepicture_1.8.8_iphoneos-arm64.deb
+Size: 2433198
+MD5sum: bc3ff5b7a5be323fe64047791f41afa3
+SHA1: e8dc321139605b13f05ca0997b7cdd1524649315
+SHA256: e9290853b8e1373f2ec72f501ce475d107b886a56a5c7a59a786d1ea2c363db5
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakepictureDp
+Description: Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera
+    Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera. So the app will get a replaced image which you set. It's a good way to protect your privacy. 虚拟拍照，能够替换应用请求摄像头拍照的图片，让应用得到任意你设置的照片。它是一个魔法相机，实现模拟照相机功能，从而保护你的个人相片隐私。
+Tag: purpose::extension
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakepictureDp
+Dev: joebruce
+Name: FakePicture(拍照替换)-taking pseudo selfie
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.autofaceunlock
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 452
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/netskao.autofaceunlock_1.1-7_iphoneos-arm64.deb
+Size: 63508
+MD5sum: 7d44ea3c5ce8364fccbef4652298f3a3
+SHA1: b99d7735a21bfa733bd9f6cbe3feadbfea4f2a77
+SHA256: d488dada8e356c01ee6a85028a73647941c22efdd820158686f6f2ce285849d0
+Section: Netskao-Tweaks
+Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
+Author: Netskao
+Name: AutoFaceUnlock
+
+Package: netskao.autofaceunlock-roothide
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 452
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/netskao.autofaceunlock-roothide_1.1-7_iphoneos-arm64e.deb
+Size: 65416
+MD5sum: bc8b6f0d48eed75ca4280ab0b49988cb
+SHA1: 2571b614aa4c2d25185484dbca31402ecf1a1a40
+SHA256: 8d76bdb7f3135f4c6a03dbb4dd8c56356b81e998d818c52d87e6d82550399782
+Section: Netskao-Tweaks
+Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
+Author: Netskao
+Name: AutoFaceUnlock
+
+Package: netskao.cccellularrate
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/netskao.cccellularrate_1.1-1_iphoneos-arm64.deb
+Size: 86200
+MD5sum: 22c015fa264ac8f53dc6d080310b71b2
+SHA1: 2080b0bc49a96852ce8ee9099a8e3663c448a989
+SHA256: 0a406ea9d387f1dc2f115878691aa9c6bec882f08c8ae4be400bbe4dbc0b281b
+Section: Netskao-Tweaks
+Description: Quickly switch the type of cellular data 2/3/4/5G currently in use via the Control Center, only the types supported in the current device settings will be displayed
+Author: Netskao
+Name: CCCellularRate
+
+Package: netskao.wechatpurification
+Version: 2026.04-6
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 23733
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/wechatpurification_2026.04-6_iphoneos-arm64.deb
+Size: 7991178
+MD5sum: 8db9c158553de511da8dc8d1e8edac8f
+SHA1: 05e1a1635cd1f14bc88e7e54e74e221b3c7fc354
+SHA256: 3594246b6fec15db14bdefa17ba6cf27dd45af4ef30b2401b686c70187bc43d8
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: topme.ios.fakegps
+Version: 3.9.15
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 17321
+Depends: firmware (>= 6.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: debs/fakelocation_3.9.15_iphoneos-arm64.deb
+Size: 3954484
+MD5sum: 8a4e1f632f20436346d62af0b7004b91
+SHA1: b38277643ce5fb2770bc3305b5232c52cd58010b
+SHA256: 0333ec3d187a7381b9e44b5e30ef32c340ba3e722944a8b025193be052aba269
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakelocationDp
+Description: 定位修改大师，Fake GPS Location, 360度全球虚拟定位到想要的任何地方。
+Tag: purpose::extension
+Author: suifeng <bestapps@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakelocationDp
+Dev: suifeng
+Icon: file:///Applications/FakeGps.app/AppIcon29x29@2x.png
+Name: 定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行
+Sponsor: thebigboss.org <http://thebigboss.org>
+
